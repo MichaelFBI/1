@@ -1,3 +1,3 @@
-Hello project another commitgit 
+Hello project " commit in hte middle of code"  another commitgit 
 
 and here we go with our 2nd commit
